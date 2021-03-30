@@ -1,0 +1,22 @@
+{
+    "mun_jan":[
+        "Renda_2010", "Dens_Demográfica", "Perc_EnsinoSuper_2010", "SdoEmpresas_01", "Contratacoes2020"
+    ],
+    "mun_dez":[
+        "Renda_2010", "Dens_Demográfica", "casosAcumulado_12", "Perc_EnsinoSuper_2010", "Contratacoes2020"
+    ],
+    "mun_var":[
+        "casosAcumulado_12", "SdoEmpresas_var", "Contratacoes2020"
+    ],
+    "est_jan":[
+        "Densidade_populacional_projetada", "Taxa_prop_media_01", "Area_privativa_01", "População_estimada"
+    ],
+    "est_dez":[
+        "Renda per capita 2010", "SaldoEmprego_12", "Valor_contratado_12", "Taxa_prop_media_12", "Area_privativa_12",
+        "SDO_emprego pela pop_estim", "Val_compr pela pop_estim", "Val_contr pela pop_estim"
+    ],
+    "est_var":[
+        "Renda per capita 2010", "SaldoEmprego_var", "Valor_contratado_var", "Area_privativa_var", "População_estimada",
+        "SDO_emprego pela pop_estim", "Val_compr pela pop_estim", "Val_contr pela pop_estim"
+    ]
+}
